@@ -5,4 +5,5 @@
 * Email: vdoxnovenie888@gmail.com
 * GitHub: IrenKov
 ## About Me
-git add .
+I am an engineer by profession. Life has shown that honesty, responsibility and hard work are inherent in me. I always work with interest and dedication in a team. The constant craving for learning and learning something new is in my blood.
+I hope that an analytical mindset will help me understand programming and learn how to write clean code.
